@@ -1,5 +1,5 @@
 # Hubtel Mobile Payment
-This is an unofficial [Hubtel Merchant API](https://developers.hubtel.com) for [D](https://dlang.org). It's also available as a package in the [Dub package registry](https:code.dlang.org).
+This is an unofficial [Hubtel Merchant API](https://developers.hubtel.com) for [D](https://dlang.org). It's also available as a package in the [Dub package registry](https://code.dlang.org/packages/hubtel).
 
 # Installation
 Using Dub, you may add `hubtel` as dependency in your `dub.json` file and the package will be downloaded automatically during project build if it's not downloaded already.
