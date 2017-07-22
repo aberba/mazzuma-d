@@ -1,0 +1,12 @@
+{
+	"name": "hubtel",
+	"authors": [
+		"Lawrence Aberba"
+	],
+	 "dependencies": {
+        "requests": "~>0.4.2"
+    },
+	"description": "Hubtel mobile money payment API",
+	"copyright": "Copyright © 2017, GSAM",
+	"license": "Boost 1.0"
+}
