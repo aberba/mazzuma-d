@@ -13,7 +13,7 @@ Using Dub, you may add `hubtel` as dependency in your `dub.json` file and the pa
 }
 ```
 
-You may also fetch the latest version manually with the command-line using the `dub`:
+You may also fetch the latest version manually in the command-line:
 
 ```sh
 dub fetch hubtel
@@ -23,7 +23,7 @@ dub fetch hubtel
 
 The `hubtel.config.Config` struct is used to configure API keys. Substitute information provided below with your own account information. Check the [Hubtel Merhcant API Documentation](https://developers.hubtel.com/documentations/merchant-account-api) for more infomation.
 
-> From a security standpoint, it much safer store your merhcant account API keys and other confidential in environmental variables instead of hard-coding them in your source code. 
+> From a security standpoint, it much safer to store your merhcant account API keys and other confidential information in environment variables instead of hard-coding them in your source code.
 
 ```d
 import hubtel.config: Config;
@@ -54,7 +54,7 @@ string userReceiveData =
         "Channel": "airtel-gh",
         "Amount": 7.50,
         "PrimaryCallbackUrl": "https://payment.marydoe.com/payment-receive-callback",
-        "Description": "Bowl of Gari"
+        "Description": "One bowl of Gari"
     } 
 `;
 
