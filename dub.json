@@ -7,6 +7,6 @@
         "requests": "~>0.4.2"
     },
 	"description": "Hubtel mobile money payment API",
-	"copyright": "Copyright © 2017, GSAM",
+	"copyright": "Copyright © 2017, Lawrence Aberba",
 	"license": "Boost 1.0"
 }
