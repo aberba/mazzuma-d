@@ -89,9 +89,9 @@ void main()
 ```
 
 # Todo
-* Create data schema payment send and receive
+* Create schema for send and receive payment data
 * Improve code test coverage
-    - contract for `send()` and receive()`
-    - API call response ??
+    - contract for `send()` and `receive()`
+    - API call response
     - `Config()`
 * Improve API documentation
