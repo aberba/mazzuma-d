@@ -8,7 +8,7 @@ Using Dub, you may add `hubtel` as dependency in your `dub.json` file and the pa
 {
     ...
     "dependencies": {
-        "hubtel-d": "~>0.1.0"
+        "hubtel": "~>0.1.0"
     }
 }
 ```
