@@ -1,12 +1,12 @@
 {
-	"name": "hubtel",
+	"name": "mazzuma",
 	"authors": [
 		"Lawrence Aberba"
 	],
-	 "dependencies": {
-        "requests": "~>0.4.2"
-    },
-	"description": "Hubtel mobile money payment API",
-	"copyright": "Copyright © 2017, Lawrence Aberba",
-	"license": "Boost 1.0"
+	"dependencies": {
+		"requests": "~>0.6.0"
+	},
+	"description": "Mazzuma mobile money payment API",
+	"copyright": "Copyright © 2018, Lawrence Aberba",
+	"license": "BSL-1.0"
 }
